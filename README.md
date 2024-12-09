@@ -40,7 +40,7 @@ This is a classic **Snake Game** built using Python's Turtle graphics library. T
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/snake-game.git
+    git clone [https://github.com/yourusername/snake-game.git](https://github.com/darrenlyl/Snake-Game.git)
     cd snake-game
     ```
 
